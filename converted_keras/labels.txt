@@ -1,0 +1,7 @@
+0 Bug
+1 Fire
+2 Flying
+3 Grass
+4 Normal
+5 Water
+6 Psychic
